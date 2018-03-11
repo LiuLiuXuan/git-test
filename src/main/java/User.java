@@ -1,3 +1,5 @@
+import org.junit.Test;
+
 public class User {
 
     private Integer id;
@@ -26,4 +28,7 @@ public class User {
     public void setName(String name) {
         this.name = name;
     }
+
+
+
 }
